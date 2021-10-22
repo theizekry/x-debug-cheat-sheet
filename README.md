@@ -22,7 +22,7 @@
 
 > Stepping is the action of "telling the debugger" to advance through your program one line at a time. Remember, a computer program is many small steps combined to form a large goal. It is often the case that one of these small steps is "incorrect". To identify which step is incorrect, we **"step"** through the program, looking at each line of code as we come to it, and seeing what effect this has on the **VARIABLES** (really the data in the variables)
 
-> ## ## **There** are several  ways to tell the debugger to move through the code:
+> ## **There** are several  ways to tell the debugger to move through the code:
 
 > # Step over
 >
